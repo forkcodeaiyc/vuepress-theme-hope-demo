@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Mon, 25 Jan 2021 13:42:54 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2021 13:42:54 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2021 13:44:31 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2021 13:44:31 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -31,18 +31,6 @@
 <li>Comment component</li>
 <li>Footer</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Encryption article</title>
-      <link>https://vuepress-theme-demo.mrhope.site/guide/encrypt/</link>
-      <guid>https://vuepress-theme-demo.mrhope.site/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Encryption article</source>
-      <category>Guide</category>
-      <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
-<p>The actual article content.</p>
-<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
-<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -484,6 +472,18 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Encryption article</title>
+      <link>https://vuepress-theme-demo.mrhope.site/guide/encrypt/</link>
+      <guid>https://vuepress-theme-demo.mrhope.site/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Encryption article</source>
+      <category>Guide</category>
+      <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
+<p>The actual article content.</p>
+<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
+<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>page config</title>
       <link>https://vuepress-theme-demo.mrhope.site/guide/page/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/guide/page/</guid>
@@ -606,18 +606,6 @@ A custom details container
 <li>评论组件</li>
 <li>页脚</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>密码加密的文章</title>
-      <link>https://vuepress-theme-demo.mrhope.site/zh/guide/encrypt/</link>
-      <guid>https://vuepress-theme-demo.mrhope.site/zh/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1059,52 +1047,15 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>页面配置</title>
-      <link>https://vuepress-theme-demo.mrhope.site/zh/guide/page/</link>
-      <guid>https://vuepress-theme-demo.mrhope.site/zh/guide/page/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">页面配置</source>
+      <title>密码加密的文章</title>
+      <link>https://vuepress-theme-demo.mrhope.site/zh/guide/encrypt/</link>
+      <guid>https://vuepress-theme-demo.mrhope.site/zh/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>
-<p>作者设置为 Ms.Hope。</p>
-</li>
-<li>
-<p>写作时间应为 2020 年 1 月 1 日</p>
-</li>
-<li>
-<p>分类为 “使用指南”</p>
-</li>
-<li>
-<p>标签为 “页面配置” 和 “使用指南”</p>
-</li>
-</ul>
-<h2 id="页面内容"> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
-</li>
-<li>
-<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
-</blockquote>
-<h2 id="页面结构"> 页面结构</h2>
-<p>此页面应当包含：</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>评论</li>
-<li>页脚</li>
-</ul>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1153,6 +1104,55 @@ $$
       <guid>https://vuepress-theme-demo.mrhope.site/zh/slides/</guid>
       <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">幻灯片页</source>
       <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
+      <title>页面配置</title>
+      <link>https://vuepress-theme-demo.mrhope.site/zh/guide/page/</link>
+      <guid>https://vuepress-theme-demo.mrhope.site/zh/guide/page/</guid>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">页面配置</source>
+      <category>使用指南</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
+<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
+<ul>
+<li>
+<p>作者设置为 Ms.Hope。</p>
+</li>
+<li>
+<p>写作时间应为 2020 年 1 月 1 日</p>
+</li>
+<li>
+<p>分类为 “使用指南”</p>
+</li>
+<li>
+<p>标签为 “页面配置” 和 “使用指南”</p>
+</li>
+</ul>
+<h2 id="页面内容"> 页面内容</h2>
+<p>你可以自由在这里书写你的 Markdown。</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
+</li>
+<li>
+<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
+</li>
+</ul>
+</div>
+<p>主题包含了一个自定义徽章章可以使用:</p>
+<blockquote>
+<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
+</blockquote>
+<h2 id="页面结构"> 页面结构</h2>
+<p>此页面应当包含：</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>评论</li>
+<li>页脚</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
