@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Mon, 25 Jan 2021 05:28:27 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2021 05:28:27 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2021 05:38:28 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2021 05:38:28 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -533,15 +533,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Project homepage demo</title>
-      <link>https://vuepress-theme-demo.mrhope.site/home/</link>
-      <guid>https://vuepress-theme-demo.mrhope.site/home/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Project homepage demo</source>
-      <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
-<p>For related descriptions of configuration items, please see <a href="https://vuepress-theme.mrhope.site/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Guides</title>
       <link>https://vuepress-theme-demo.mrhope.site/guide/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/guide/</guid>
@@ -562,6 +553,15 @@ A custom details container
 <p><a href="./encrypt.html">Encryption Demo</a></p>
 </li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Project homepage demo</title>
+      <link>https://vuepress-theme-demo.mrhope.site/home/</link>
+      <guid>https://vuepress-theme-demo.mrhope.site/home/</guid>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Project homepage demo</source>
+      <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
+<p>For related descriptions of configuration items, please see <a href="https://vuepress-theme.mrhope.site/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
