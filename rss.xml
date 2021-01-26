@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Tue, 26 Jan 2021 00:44:46 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2021 00:44:46 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2021 04:06:43 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2021 04:06:43 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -556,10 +556,10 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Project homepage demo</title>
+      <title>Project home</title>
       <link>https://vuepress-theme-demo.mrhope.site/home/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/home/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Project homepage demo</source>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Project home</source>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme.mrhope.site/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
 ]]></content:encoded>
@@ -574,10 +574,10 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Mr.Hope</title>
+      <title>Blog Home</title>
       <link>https://vuepress-theme-demo.mrhope.site/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Mr.Hope</source>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Blog Home</source>
       <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme.mrhope.site/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content:encoded>
     </item>
@@ -1131,19 +1131,19 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>项目主页展示</title>
+      <title>项目主页</title>
       <link>https://vuepress-theme-demo.mrhope.site/zh/home/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/zh/home/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">项目主页展示</source>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">项目主页</source>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://vuepress-theme.mrhope.site/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Mr.Hope</title>
+      <title>博客主页</title>
       <link>https://vuepress-theme-demo.mrhope.site/zh/</link>
       <guid>https://vuepress-theme-demo.mrhope.site/zh/</guid>
-      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">Mr.Hope</source>
+      <source url="https://vuepress-theme-demo.mrhope.site/rss.xml">博客主页</source>
       <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme.mrhope.site/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
