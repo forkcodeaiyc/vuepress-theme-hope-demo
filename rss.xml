@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Wed, 03 Feb 2021 03:32:59 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2021 03:32:59 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 03:38:10 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 03:38:10 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -1131,20 +1131,20 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>博客主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
-      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>项目主页</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">项目主页</source>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客主页</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
+      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
