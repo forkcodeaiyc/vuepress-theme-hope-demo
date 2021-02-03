@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Tue, 02 Feb 2021 16:11:22 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2021 16:11:22 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 03:32:59 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 03:32:59 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -43,87 +43,6 @@
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
 <p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>page config</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
-      <category>Guide</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
-<p>You can set page information in Markdown's Frontmatter.</p>
-<ul>
-<li>
-<p>The author is set to Ms.Hope.</p>
-</li>
-<li>
-<p>The writing time should be January 1, 2020</p>
-</li>
-<li>
-<p>Category is &quot;Guide&quot;</p>
-</li>
-<li>
-<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
-</li>
-</ul>
-<h2 id="page-content"> Page content</h2>
-<p>You are free to write your Markdown here.</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
-</li>
-<li>
-<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
-</li>
-</ul>
-</div>
-<p>The theme contains a custom badge:</p>
-<blockquote>
-<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
-</blockquote>
-<h2 id="page-structure"> Page structure</h2>
-<p>This page should contain:</p>
-<ul>
-<li>Back to top button</li>
-<li>Route navigation</li>
-<li>Comments</li>
-<li>Footer</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Guides</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
-      <category>Guide</category>
-      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
-<ul>
-<li>
-<p><a href="./page.html">Page Config</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown Enhance</a></p>
-</li>
-<li>
-<p><a href="./disable.html">Function Disable</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">Encryption Demo</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Project home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/home/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/home/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Project home</source>
-      <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
-<p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -565,11 +484,84 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog Home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
-      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
+      <title>page config</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
+      <category>Guide</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
+<p>You can set page information in Markdown's Frontmatter.</p>
+<ul>
+<li>
+<p>The author is set to Ms.Hope.</p>
+</li>
+<li>
+<p>The writing time should be January 1, 2020</p>
+</li>
+<li>
+<p>Category is &quot;Guide&quot;</p>
+</li>
+<li>
+<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
+</li>
+</ul>
+<h2 id="page-content"> Page content</h2>
+<p>You are free to write your Markdown here.</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
+</li>
+<li>
+<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
+</li>
+</ul>
+</div>
+<p>The theme contains a custom badge:</p>
+<blockquote>
+<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
+</blockquote>
+<h2 id="page-structure"> Page structure</h2>
+<p>This page should contain:</p>
+<ul>
+<li>Back to top button</li>
+<li>Route navigation</li>
+<li>Comments</li>
+<li>Footer</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
+      <category>Guide</category>
+      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
+<ul>
+<li>
+<p><a href="./page.html">Page Config</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="./disable.html">Function Disable</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">Encryption Demo</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Project home</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/home/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/home/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Project home</source>
+      <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
+<p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -579,6 +571,14 @@ A custom details container
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Intro Page</source>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
+      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -618,55 +618,6 @@ A custom details container
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
 <p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>页面配置</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">页面配置</source>
-      <category>使用指南</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>
-<p>作者设置为 Ms.Hope。</p>
-</li>
-<li>
-<p>写作时间应为 2020 年 1 月 1 日</p>
-</li>
-<li>
-<p>分类为 “使用指南”</p>
-</li>
-<li>
-<p>标签为 “页面配置” 和 “使用指南”</p>
-</li>
-</ul>
-<h2 id="页面内容"> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
-</li>
-<li>
-<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
-</blockquote>
-<h2 id="页面结构"> 页面结构</h2>
-<p>此页面应当包含：</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>评论</li>
-<li>页脚</li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -1108,6 +1059,55 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>页面配置</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">页面配置</source>
+      <category>使用指南</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
+<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
+<ul>
+<li>
+<p>作者设置为 Ms.Hope。</p>
+</li>
+<li>
+<p>写作时间应为 2020 年 1 月 1 日</p>
+</li>
+<li>
+<p>分类为 “使用指南”</p>
+</li>
+<li>
+<p>标签为 “页面配置” 和 “使用指南”</p>
+</li>
+</ul>
+<h2 id="页面内容"> 页面内容</h2>
+<p>你可以自由在这里书写你的 Markdown。</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
+</li>
+<li>
+<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
+</li>
+</ul>
+</div>
+<p>主题包含了一个自定义徽章章可以使用:</p>
+<blockquote>
+<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
+</blockquote>
+<h2 id="页面结构"> 页面结构</h2>
+<p>此页面应当包含：</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>评论</li>
+<li>页脚</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>主要功能与配置演示</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
@@ -1131,20 +1131,20 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>博客主页</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
+      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>项目主页</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">项目主页</source>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
-      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
