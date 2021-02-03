@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Wed, 03 Feb 2021 10:37:14 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2021 10:37:14 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 10:59:56 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 10:59:56 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -586,7 +586,9 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
-      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>组件禁用</title>
@@ -1152,7 +1154,9 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">幻灯片页</source>
-      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>
