@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Wed, 03 Feb 2021 06:41:48 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2021 06:41:48 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 09:45:17 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 09:45:17 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -574,19 +574,19 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Slide page</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
+      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
+    </item>
+    <item>
       <title>Blog Home</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
       <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
-      <content:encoded><![CDATA[<i>Not supported content</i>]]></content:encoded>
     </item>
     <item>
       <title>组件禁用</title>
