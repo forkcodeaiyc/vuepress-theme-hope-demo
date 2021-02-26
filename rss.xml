@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Fri, 26 Feb 2021 16:56:29 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Feb 2021 16:56:29 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Feb 2021 16:56:33 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Feb 2021 16:56:33 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -574,15 +574,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Slide page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
       <title>Blog Home</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
@@ -591,16 +582,13 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>密码加密的文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
+      <title>Slide page</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>组件禁用</title>
@@ -620,6 +608,18 @@ A custom details container
 <li>评论组件</li>
 <li>页脚</li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>密码加密的文章</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1061,29 +1061,6 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
-      <category>使用指南</category>
-      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>页面配置</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
@@ -1129,6 +1106,29 @@ $$
 <li>路径导航</li>
 <li>评论</li>
 <li>页脚</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>主要功能与配置演示</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="./page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="./disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">加密展示</a></p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
