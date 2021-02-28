@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Sun, 28 Feb 2021 14:38:32 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2021 14:38:32 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2021 15:18:06 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2021 15:18:06 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -484,6 +484,29 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Guides</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
+      <category>Guide</category>
+      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
+<ul>
+<li>
+<p><a href="./page.html">Page Config</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="./disable.html">Function Disable</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">Encryption Demo</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>page config</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
@@ -529,29 +552,6 @@ A custom details container
 <li>Route navigation</li>
 <li>Comments</li>
 <li>Footer</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Guides</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
-      <category>Guide</category>
-      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
-<ul>
-<li>
-<p><a href="./page.html">Page Config</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown Enhance</a></p>
-</li>
-<li>
-<p><a href="./disable.html">Function Disable</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">Encryption Demo</a></p>
-</li>
 </ul>
 ]]></content:encoded>
     </item>
