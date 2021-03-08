@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Mon, 08 Mar 2021 15:00:56 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Mar 2021 15:00:56 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 15:00:59 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 15:00:59 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -580,15 +580,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog Home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
-      <pubDate>Mon, 08 Mar 2021 14:59:57 GMT</pubDate>
-      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Slide page</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
@@ -597,27 +588,6 @@ A custom details container
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>组件禁用</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件禁用</source>
-      <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
-</description>
-      <category>使用指南</category>
-      <pubDate>Mon, 08 Mar 2021 14:59:57 GMT</pubDate>
-      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-
-<p>本页面应当禁用了:</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>页面信息</li>
-<li>评论组件</li>
-<li>页脚</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>密码加密的文章</title>
@@ -630,6 +600,15 @@ A custom details container
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
 <p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
+      <pubDate>Mon, 08 Mar 2021 14:59:57 GMT</pubDate>
+      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1069,6 +1048,27 @@ $$
 </li>
 </ol>
 </section>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>组件禁用</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件禁用</source>
+      <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
+</description>
+      <category>使用指南</category>
+      <pubDate>Mon, 08 Mar 2021 14:59:57 GMT</pubDate>
+      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+
+<p>本页面应当禁用了:</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>页面信息</li>
+<li>评论组件</li>
+<li>页脚</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>

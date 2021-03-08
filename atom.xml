@@ -6,7 +6,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-03-08T15:00:56.599Z</updated>
+  <updated>2021-03-08T15:00:59.198Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/"/>
@@ -635,22 +635,6 @@ A custom details container
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
-    <title type="html">Blog Home</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/"/>
-    <updated>2021-03-08T14:59:57.000Z</updated>
-    <content type="html"><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
-]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-03-08T14:59:57.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
     <title type="html">Slide page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/slides/"/>
@@ -660,34 +644,6 @@ A custom details container
     <author>
       <name>Mr.Hope</name>
     </author>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-03-08T14:59:57.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
-    <title type="html">组件禁用</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/"/>
-    <updated>2021-03-08T14:59:57.000Z</updated>
-    <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-
-<p>本页面应当禁用了:</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>页面信息</li>
-<li>评论组件</li>
-<li>页脚</li>
-</ul>
-]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <category term="使用指南"/>
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
@@ -708,6 +664,22 @@ A custom details container
       <name>Mr.Hope</name>
     </author>
     <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-03-08T14:59:57.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
+    <title type="html">Blog Home</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/"/>
+    <updated>2021-03-08T14:59:57.000Z</updated>
+    <content type="html"><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
+]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
@@ -1149,6 +1121,34 @@ $$
 </li>
 </ol>
 </section>
+]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
+    <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-03-08T14:59:57.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
+    <title type="html">组件禁用</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/"/>
+    <updated>2021-03-08T14:59:57.000Z</updated>
+    <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+
+<p>本页面应当禁用了:</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>页面信息</li>
+<li>评论组件</li>
+<li>页脚</li>
+</ul>
 ]]></content>
     <author>
       <name>Mr.Hope</name>
