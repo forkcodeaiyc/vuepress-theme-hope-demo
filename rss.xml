@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Sun, 07 Mar 2021 13:41:22 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Mar 2021 13:41:22 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 03:22:57 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 03:22:57 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -43,6 +43,55 @@
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
 <p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>page config</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
+      <category>Guide</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
+<p>You can set page information in Markdown’s Frontmatter.</p>
+<ul>
+<li>
+<p>The author is set to Ms.Hope.</p>
+</li>
+<li>
+<p>The writing time should be January 1, 2020</p>
+</li>
+<li>
+<p>Category is &quot;Guide&quot;</p>
+</li>
+<li>
+<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
+</li>
+</ul>
+<h2 id="page-content"> Page content</h2>
+<p>You are free to write your Markdown here.</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
+</li>
+<li>
+<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
+</li>
+</ul>
+</div>
+<p>The theme contains a custom badge:</p>
+<blockquote>
+<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
+</blockquote>
+<h2 id="page-structure"> Page structure</h2>
+<p>This page should contain:</p>
+<ul>
+<li>Back to top button</li>
+<li>Route navigation</li>
+<li>Comments</li>
+<li>Footer</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -481,55 +530,6 @@ A custom details container
 </li>
 </ol>
 </section>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>page config</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
-      <category>Guide</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
-<p>You can set page information in Markdown’s Frontmatter.</p>
-<ul>
-<li>
-<p>The author is set to Ms.Hope.</p>
-</li>
-<li>
-<p>The writing time should be January 1, 2020</p>
-</li>
-<li>
-<p>Category is &quot;Guide&quot;</p>
-</li>
-<li>
-<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
-</li>
-</ul>
-<h2 id="page-content"> Page content</h2>
-<p>You are free to write your Markdown here.</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
-</li>
-<li>
-<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
-</li>
-</ul>
-</div>
-<p>The theme contains a custom badge:</p>
-<blockquote>
-<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
-</blockquote>
-<h2 id="page-structure"> Page structure</h2>
-<p>This page should contain:</p>
-<ul>
-<li>Back to top button</li>
-<li>Route navigation</li>
-<li>Comments</li>
-<li>Footer</li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
