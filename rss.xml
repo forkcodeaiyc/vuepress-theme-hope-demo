@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Wed, 10 Mar 2021 04:17:23 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Mar 2021 04:17:23 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Mar 2021 04:17:30 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Mar 2021 04:17:30 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -32,6 +32,19 @@
 <li>Comment component</li>
 <li>Footer</li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Encryption article</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Encryption article</source>
+      <category>Guide</category>
+      <pubDate>Wed, 10 Mar 2021 04:16:20 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
+<p>The actual article content.</p>
+<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
+<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -474,19 +487,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Encryption article</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Encryption article</source>
-      <category>Guide</category>
-      <pubDate>Wed, 10 Mar 2021 04:16:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
-<p>The actual article content.</p>
-<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
-<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>page config</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
@@ -577,6 +577,15 @@ A custom details container
       <pubDate>Wed, 10 Mar 2021 04:16:20 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
+      <pubDate>Wed, 10 Mar 2021 04:16:20 GMT</pubDate>
+      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1163,15 +1172,6 @@ $$
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
-      <pubDate>Wed, 10 Mar 2021 04:16:20 GMT</pubDate>
-      <content:encoded><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
