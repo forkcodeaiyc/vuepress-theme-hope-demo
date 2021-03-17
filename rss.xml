@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Wed, 17 Mar 2021 02:59:47 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Mar 2021 02:59:47 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Mar 2021 02:59:49 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Mar 2021 02:59:49 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -45,55 +45,6 @@
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
 <p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>page config</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
-      <category>Guide</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
-<p>You can set page information in Markdown’s Frontmatter.</p>
-<ul>
-<li>
-<p>The author is set to Ms.Hope.</p>
-</li>
-<li>
-<p>The writing time should be January 1, 2020</p>
-</li>
-<li>
-<p>Category is &quot;Guide&quot;</p>
-</li>
-<li>
-<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
-</li>
-</ul>
-<h2 id="page-content"> Page content</h2>
-<p>You are free to write your Markdown here.</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
-</li>
-<li>
-<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
-</li>
-</ul>
-</div>
-<p>The theme contains a custom badge:</p>
-<blockquote>
-<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
-</blockquote>
-<h2 id="page-structure"> Page structure</h2>
-<p>This page should contain:</p>
-<ul>
-<li>Back to top button</li>
-<li>Route navigation</li>
-<li>Comments</li>
-<li>Footer</li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -536,6 +487,55 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>page config</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
+      <category>Guide</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
+<p>You can set page information in Markdown’s Frontmatter.</p>
+<ul>
+<li>
+<p>The author is set to Ms.Hope.</p>
+</li>
+<li>
+<p>The writing time should be January 1, 2020</p>
+</li>
+<li>
+<p>Category is &quot;Guide&quot;</p>
+</li>
+<li>
+<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
+</li>
+</ul>
+<h2 id="page-content"> Page content</h2>
+<p>You are free to write your Markdown here.</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
+</li>
+<li>
+<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
+</li>
+</ul>
+</div>
+<p>The theme contains a custom badge:</p>
+<blockquote>
+<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
+</blockquote>
+<h2 id="page-structure"> Page structure</h2>
+<p>This page should contain:</p>
+<ul>
+<li>Back to top button</li>
+<li>Route navigation</li>
+<li>Comments</li>
+<li>Footer</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Guides</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
@@ -599,6 +599,19 @@ A custom details container
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
+      <title>密码加密的文章</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <pubDate>Wed, 17 Mar 2021 02:58:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>组件禁用</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</guid>
@@ -617,19 +630,6 @@ A custom details container
 <li>评论组件</li>
 <li>页脚</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>密码加密的文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <pubDate>Wed, 17 Mar 2021 02:58:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1072,6 +1072,30 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>主要功能与配置演示</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <pubDate>Wed, 17 Mar 2021 02:58:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="./page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="./disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>页面配置</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
@@ -1117,30 +1141,6 @@ $$
 <li>路径导航</li>
 <li>评论</li>
 <li>页脚</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
-      <category>使用指南</category>
-      <pubDate>Wed, 17 Mar 2021 02:58:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
 </ul>
 ]]></content:encoded>
     </item>

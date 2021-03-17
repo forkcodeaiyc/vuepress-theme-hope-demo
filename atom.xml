@@ -6,7 +6,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-03-17T02:59:47.514Z</updated>
+  <updated>2021-03-17T02:59:49.424Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/"/>
@@ -66,62 +66,6 @@
     </contributor>
     <published>2021-03-17T02:58:50.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
-    <title type="html">page config</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/page/"/>
-    <updated>2021-03-17T02:58:50.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
-<p>You can set page information in Markdown’s Frontmatter.</p>
-<ul>
-<li>
-<p>The author is set to Ms.Hope.</p>
-</li>
-<li>
-<p>The writing time should be January 1, 2020</p>
-</li>
-<li>
-<p>Category is &quot;Guide&quot;</p>
-</li>
-<li>
-<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
-</li>
-</ul>
-<h2 id="page-content"> Page content</h2>
-<p>You are free to write your Markdown here.</p>
-<div><p>Tips</p>
-<ul>
-<li>
-<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
-</li>
-<li>
-<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
-</li>
-</ul>
-</div>
-<p>The theme contains a custom badge:</p>
-<blockquote>
-<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
-</blockquote>
-<h2 id="page-structure"> Page structure</h2>
-<p>This page should contain:</p>
-<ul>
-<li>Back to top button</li>
-<li>Route navigation</li>
-<li>Comments</li>
-<li>Footer</li>
-</ul>
-]]></content>
-    <author>
-      <name>Ms.Hope</name>
-    </author>
-    <category term="Guide"/>
-    <contributor>
-      <name>Ms.Hope</name>
-    </contributor>
-    <published>2020-01-01T00:00:00.000Z</published>
-    <rights>Copyright by Ms.Hope</rights>
   </entry>
   <entry>
     <title type="html">Markdown Enhance</title>
@@ -570,6 +514,62 @@ A custom details container
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
+    <title type="html">page config</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/page/"/>
+    <updated>2021-03-17T02:58:50.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
+<p>You can set page information in Markdown’s Frontmatter.</p>
+<ul>
+<li>
+<p>The author is set to Ms.Hope.</p>
+</li>
+<li>
+<p>The writing time should be January 1, 2020</p>
+</li>
+<li>
+<p>Category is &quot;Guide&quot;</p>
+</li>
+<li>
+<p>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</p>
+</li>
+</ul>
+<h2 id="page-content"> Page content</h2>
+<p>You are free to write your Markdown here.</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Please use the relative link <code>./</code> for pictures in the Markdown folder.</p>
+</li>
+<li>
+<p>For pictures in <code>.vuepress/public</code> folder, please use absolute link <code>/</code> for reference</p>
+</li>
+</ul>
+</div>
+<p>The theme contains a custom badge:</p>
+<blockquote>
+<p>A dark blue badge text badge at the end of line. <i>Not supported content</i></p>
+</blockquote>
+<h2 id="page-structure"> Page structure</h2>
+<p>This page should contain:</p>
+<ul>
+<li>Back to top button</li>
+<li>Route navigation</li>
+<li>Comments</li>
+<li>Footer</li>
+</ul>
+]]></content>
+    <author>
+      <name>Ms.Hope</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>Ms.Hope</name>
+    </contributor>
+    <published>2020-01-01T00:00:00.000Z</published>
+    <rights>Copyright by Ms.Hope</rights>
+  </entry>
+  <entry>
     <title type="html">Guides</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/"/>
@@ -667,6 +667,26 @@ A custom details container
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
+    <title type="html">密码加密的文章</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/"/>
+    <updated>2021-03-17T02:58:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
+    <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-03-17T02:58:50.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/"/>
@@ -683,26 +703,6 @@ A custom details container
 <li>评论组件</li>
 <li>页脚</li>
 </ul>
-]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-03-17T02:58:50.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
-    <title type="html">密码加密的文章</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/"/>
-    <updated>2021-03-17T02:58:50.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
 ]]></content>
     <author>
       <name>Mr.Hope</name>
@@ -1161,6 +1161,37 @@ $$
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
+    <title type="html">主要功能与配置演示</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/"/>
+    <updated>2021-03-17T02:58:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="./page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="./disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
+    <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-03-17T02:58:50.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/"/>
@@ -1215,37 +1246,6 @@ $$
     </contributor>
     <published>2020-01-01T00:00:00.000Z</published>
     <rights>Copyright by Ms.Hope</rights>
-  </entry>
-  <entry>
-    <title type="html">主要功能与配置演示</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/"/>
-    <updated>2021-03-17T02:58:50.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
-]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-03-17T02:58:50.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
