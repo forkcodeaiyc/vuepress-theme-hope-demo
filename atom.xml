@@ -6,7 +6,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-03-21T04:58:56.954Z</updated>
+  <updated>2021-03-21T04:59:02.965Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/"/>
@@ -695,26 +695,6 @@ A custom details container
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
-    <title type="html">密码加密的文章</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/"/>
-    <updated>2021-03-21T04:58:06.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-03-21T04:58:06.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
     <title type="html">Markdown 增强</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/"/>
@@ -1161,6 +1141,26 @@ $$
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
+    <title type="html">密码加密的文章</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/"/>
+    <updated>2021-03-21T04:58:06.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
+    <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-03-21T04:58:06.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/"/>
@@ -1248,12 +1248,11 @@ $$
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
-    <title type="html">项目主页</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/home/"/>
+    <title type="html">博客主页</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/"/>
     <updated>2021-03-21T04:58:06.000Z</updated>
-    <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
-<p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
+    <content type="html"><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content>
     <author>
       <name>Mr.Hope</name>
@@ -1265,11 +1264,12 @@ $$
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
-    <title type="html">博客主页</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/"/>
+    <title type="html">项目主页</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/home/"/>
     <updated>2021-03-21T04:58:06.000Z</updated>
-    <content type="html"><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
+    <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
+<p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
 ]]></content>
     <author>
       <name>Mr.Hope</name>

@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>A demo for vuepress-theme-hope</description>
     <language>en-US</language>
-    <pubDate>Sun, 21 Mar 2021 04:58:56 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Mar 2021 04:58:56 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Mar 2021 04:59:02 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Mar 2021 04:59:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Mr.Hope</copyright>
@@ -620,19 +620,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>密码加密的文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <pubDate>Sun, 21 Mar 2021 04:58:06 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Markdown 增强</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/</guid>
@@ -1072,6 +1059,19 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>密码加密的文章</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <pubDate>Sun, 21 Mar 2021 04:58:06 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>页面配置</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
@@ -1145,6 +1145,15 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>博客主页</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
+      <pubDate>Sun, 21 Mar 2021 04:58:06 GMT</pubDate>
+      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>项目主页</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</guid>
@@ -1152,15 +1161,6 @@ $$
       <pubDate>Sun, 21 Mar 2021 04:58:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
-      <pubDate>Sun, 21 Mar 2021 04:58:06 GMT</pubDate>
-      <content:encoded><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
