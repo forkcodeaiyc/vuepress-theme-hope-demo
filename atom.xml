@@ -6,7 +6,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-04-06T08:05:42.385Z</updated>
+  <updated>2021-04-06T08:05:48.534Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/"/>
@@ -651,22 +651,6 @@ A custom details container
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
-    <title type="html">Slide page</title>
-    <id>https://vuepress-theme-hope-demo.mrhope.site/slides/</id>
-    <link href="https://vuepress-theme-hope-demo.mrhope.site/slides/"/>
-    <updated>2021-04-06T08:04:48.000Z</updated>
-    <content type="html"><![CDATA[
-<i>Not supported content</i>]]></content>
-    <author>
-      <name>Mr.Hope</name>
-    </author>
-    <contributor>
-      <name>Mr.Hope</name>
-    </contributor>
-    <published>2021-04-06T08:04:48.000Z</published>
-    <rights>Copyright by Mr.Hope</rights>
-  </entry>
-  <entry>
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/"/>
@@ -688,6 +672,22 @@ A custom details container
       <name>Mr.Hope</name>
     </author>
     <category term="使用指南"/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-04-06T08:04:48.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
+    <title type="html">Slide page</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/slides/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/slides/"/>
+    <updated>2021-04-06T08:04:48.000Z</updated>
+    <content type="html"><![CDATA[
+<i>Not supported content</i>]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
     <contributor>
       <name>Mr.Hope</name>
     </contributor>

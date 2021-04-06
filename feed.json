@@ -133,21 +133,6 @@
       "tags": []
     },
     {
-      "title": "Slide page",
-      "url": "https://vuepress-theme-hope-demo.mrhope.site/slides/",
-      "id": "https://vuepress-theme-hope-demo.mrhope.site/slides/",
-      "content_html": "\n<i>Not supported content</i>",
-      "image": "https://vuepress-theme-hope-demo.mrhope.site/logo.svg",
-      "date_published": "2021-04-06T08:04:48.000Z",
-      "date_modified": "2021-04-06T08:04:48.000Z",
-      "authors": [
-        {
-          "name": "Mr.Hope"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "组件禁用",
       "url": "https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/",
       "id": "https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/",
@@ -163,6 +148,21 @@
       "tags": [
         "使用指南"
       ]
+    },
+    {
+      "title": "Slide page",
+      "url": "https://vuepress-theme-hope-demo.mrhope.site/slides/",
+      "id": "https://vuepress-theme-hope-demo.mrhope.site/slides/",
+      "content_html": "\n<i>Not supported content</i>",
+      "image": "https://vuepress-theme-hope-demo.mrhope.site/logo.svg",
+      "date_published": "2021-04-06T08:04:48.000Z",
+      "date_modified": "2021-04-06T08:04:48.000Z",
+      "authors": [
+        {
+          "name": "Mr.Hope"
+        }
+      ],
+      "tags": []
     },
     {
       "title": "密码加密的文章",
