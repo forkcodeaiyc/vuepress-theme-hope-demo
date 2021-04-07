@@ -59,22 +59,6 @@
       ]
     },
     {
-      "title": "Guides",
-      "url": "https://vuepress-theme-hope-demo.mrhope.site/guide/",
-      "id": "https://vuepress-theme-hope-demo.mrhope.site/guide/",
-      "content_html": "<h1 id=\"guides\"> Guides</h1>\n<ul>\n<li>\n<p><a href=\"./page.html\">Page Config</a></p>\n</li>\n<li>\n<p><a href=\"./markdown.html\">Markdown Enhance</a></p>\n</li>\n<li>\n<p><a href=\"./disable.html\">Function Disable</a></p>\n</li>\n<li>\n<p><a href=\"./encrypt.html\">Encryption Demo</a></p>\n</li>\n</ul>\n",
-      "date_published": "2021-04-07T08:06:14.000Z",
-      "date_modified": "2021-04-07T08:06:14.000Z",
-      "authors": [
-        {
-          "name": "Mr.Hope"
-        }
-      ],
-      "tags": [
-        "Guide"
-      ]
-    },
-    {
       "title": "page config",
       "url": "https://vuepress-theme-hope-demo.mrhope.site/guide/page/",
       "id": "https://vuepress-theme-hope-demo.mrhope.site/guide/page/",
@@ -84,6 +68,22 @@
       "authors": [
         {
           "name": "Ms.Hope"
+        }
+      ],
+      "tags": [
+        "Guide"
+      ]
+    },
+    {
+      "title": "Guides",
+      "url": "https://vuepress-theme-hope-demo.mrhope.site/guide/",
+      "id": "https://vuepress-theme-hope-demo.mrhope.site/guide/",
+      "content_html": "<h1 id=\"guides\"> Guides</h1>\n<ul>\n<li>\n<p><a href=\"./page.html\">Page Config</a></p>\n</li>\n<li>\n<p><a href=\"./markdown.html\">Markdown Enhance</a></p>\n</li>\n<li>\n<p><a href=\"./disable.html\">Function Disable</a></p>\n</li>\n<li>\n<p><a href=\"./encrypt.html\">Encryption Demo</a></p>\n</li>\n</ul>\n",
+      "date_published": "2021-04-07T08:06:14.000Z",
+      "date_modified": "2021-04-07T08:06:14.000Z",
+      "authors": [
+        {
+          "name": "Mr.Hope"
         }
       ],
       "tags": [
